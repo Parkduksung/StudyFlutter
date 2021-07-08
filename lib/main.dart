@@ -27,10 +27,23 @@ class HelloPage extends StatefulWidget {
 }
 
 class _HelloPageState extends State<HelloPage> {
+
+  String _message = 'Hello world';
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        floatingActionButton: FloatingActionButton(
+          child: Icon(Icons.add),
+          onPressed: _changeMessage
+        ),
         appBar: AppBar(title: Text(widget.title)),
-        body: Text(widget.title, style: TextStyle(fontSize: 20)));
+        body: Text(_message, style: TextStyle(fontSize: 20)));
+  }
+
+  void _changeMessage() {
+    setState(() {
+      _message = '안녕';
+    });
   }
 }

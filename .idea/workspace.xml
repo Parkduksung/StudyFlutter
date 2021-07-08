@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccff7e9b-a896-4925-849b-bbc4dc090942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DEV_OY/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEV_OY/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/androidTest/java/com/example/examplemvvm/MainActivityTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/MVVMViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/base/BaseActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/data/repo/MVVMRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/data/repo/MVVMRepositoryImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/data/source/local/MVVMLocalDataSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/data/source/local/MVVMLocalDataSourceImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/di/RepositoryModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/di/SourceModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/main/java/com/example/examplemvvm/di/ViewModelModule.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/test/java/com/example/examplemvvm/data/repo/MVVMRepositoryImplTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleMVVM/app/src/test/java/com/example/examplemvvm/data/source/local/MVVMLocalDataSourceImplTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVMExample/.idea/MVVMExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MementoPattern/app/src/test/java/com/example/mementopattern/MementoPatternTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewExam/app/src/main/java/com/example/recyclerviewexam/SubActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewExam/app/src/main/res/layout/activity_sub.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudyDesignPattern/app/src/test/java/com/example/studydesignpattern/category/iterator/DinnerMenuIteratorTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VisitorPattern/app/src/main/java/com/example/visitorpattern/VisitorPatternTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VisitorPattern/app/src/test/java/com/example/visitorpattern/VisitorPatternTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_Tutorial_Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_Tutorial_Projects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArchitectureStudy" beforeDir="false" afterPath="$PROJECT_DIR$/../ArchitectureStudy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AroundGym" beforeDir="false" afterPath="$PROJECT_DIR$/../AroundGym" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlurSample" beforeDir="false" afterPath="$PROJECT_DIR$/../BlurSample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Camera2Kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../Camera2Kotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CameraCVGLView" beforeDir="false" afterPath="$PROJECT_DIR$/../CameraCVGLView" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatBot-App_with-Android-and-Python" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatBot-App_with-Android-and-Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingTest" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExerciseRestaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../ExerciseRestaurant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IteratorPattern/app/src/main/java/com/example/iteratorpattern/IteratorPattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../IteratorPattern/app/src/main/java/com/example/iteratorpattern/IteratorPattern.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IteratorPattern/app/src/test/java/com/example/iteratorpattern/IteratorPatternTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../IteratorPattern/app/src/test/java/com/example/iteratorpattern/IteratorPatternTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JejuNet" beforeDir="false" afterPath="$PROJECT_DIR$/../JejuNet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KNOX" beforeDir="false" afterPath="$PROJECT_DIR$/../KNOX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenglCamera" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenglCamera" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenglCameraView" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenglCameraView" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Portrait-Segmentation" beforeDir="false" afterPath="$PROJECT_DIR$/../Portrait-Segmentation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RCMP_5X_Solution" beforeDir="false" afterPath="$PROJECT_DIR$/../RCMP_5X_Solution" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RCMP_ASP" beforeDir="false" afterPath="$PROJECT_DIR$/../RCMP_ASP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RSEngineInstaller" beforeDir="false" afterPath="$PROJECT_DIR$/../RSEngineInstaller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/recyclerview/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/recyclerview/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyAnimation" beforeDir="false" afterPath="$PROJECT_DIR$/../StudyAnimation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study_RxJavaProgramming" beforeDir="false" afterPath="$PROJECT_DIR$/../Study_RxJavaProgramming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TensorFlowLite" beforeDir="false" afterPath="$PROJECT_DIR$/../TensorFlowLite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Toy_Zigzag" beforeDir="false" afterPath="$PROJECT_DIR$/../Toy_Zigzag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VideoBlurAndroid-Example" beforeDir="false" afterPath="$PROJECT_DIR$/../VideoBlurAndroid-Example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VideoProcessing" beforeDir="false" afterPath="$PROJECT_DIR$/../VideoProcessing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-agent" beforeDir="false" afterPath="$PROJECT_DIR$/../android-agent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-camerax-opengl" beforeDir="false" afterPath="$PROJECT_DIR$/../android-camerax-opengl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-kotlin-notifications" beforeDir="false" afterPath="$PROJECT_DIR$/../android-kotlin-notifications" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-viewer" beforeDir="false" afterPath="$PROJECT_DIR$/../android-viewer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camerax-opengl" beforeDir="false" afterPath="$PROJECT_DIR$/../camerax-opengl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../camerax-sample" beforeDir="false" afterPath="$PROJECT_DIR$/../camerax-sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples" beforeDir="false" afterPath="$PROJECT_DIR$/../examples" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise-tdd" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise-tdd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-python-android-chat" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-python-android-chat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing-samples" beforeDir="false" afterPath="$PROJECT_DIR$/../testing-samples" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_30]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uz3OWTpKNqsnOpq1c7D64Bw59u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccff7e9b-a896-4925-849b-bbc4dc090942" name="Default Changelist" comment="" />
+      <created>1625654558634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625654558634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="123" width="749" height="619" key="AVDManager" timestamp="1625663306214">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="633" y="123" width="749" height="619" key="AVDManager/0.23.1440.819@0.23.1440.819" timestamp="1625663306214" />
+    <state x="208" y="23" key="CommitChangelistDialog2" timestamp="1625657673142">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="208" y="23" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1625657673142" />
+    <state width="2518" height="407" key="GridCell.Tab.0.bottom" timestamp="1625703590210">
+      <screen x="1440" y="-15" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="407" key="GridCell.Tab.0.bottom/0.23.1440.819/1440.-15.2560.1417@1440.-15.2560.1417" timestamp="1625703590210" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1625657609101" />
+    <state width="2518" height="407" key="GridCell.Tab.0.center" timestamp="1625703590209">
+      <screen x="1440" y="-15" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="407" key="GridCell.Tab.0.center/0.23.1440.819/1440.-15.2560.1417@1440.-15.2560.1417" timestamp="1625703590209" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1625657609101" />
+    <state width="2518" height="407" key="GridCell.Tab.0.left" timestamp="1625703590209">
+      <screen x="1440" y="-15" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="407" key="GridCell.Tab.0.left/0.23.1440.819/1440.-15.2560.1417@1440.-15.2560.1417" timestamp="1625703590209" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1625657609100" />
+    <state width="2518" height="407" key="GridCell.Tab.0.right" timestamp="1625703590210">
+      <screen x="1440" y="-15" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="407" key="GridCell.Tab.0.right/0.23.1440.819/1440.-15.2560.1417@1440.-15.2560.1417" timestamp="1625703590210" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1625657609101" />
+  </component>
+</project>
